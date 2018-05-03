@@ -1,2 +1,0 @@
-# myFirstRepo
-for testing
